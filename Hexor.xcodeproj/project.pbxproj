@@ -23,15 +23,15 @@
 		893F5D3315E181530030BAB0 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		893F5D3515E181530030BAB0 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		893F5D3715E181530030BAB0 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		893F5D3B15E181530030BAB0 /* Hexor-Info.plist */ = {isa = PBXFileReference; path = "Hexor-Info.plist"; sourceTree = "<group>"; };
+		893F5D3B15E181530030BAB0 /* Hexor-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Hexor-Info.plist"; sourceTree = "<group>"; };
 		893F5D3D15E181530030BAB0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		893F5D3F15E181530030BAB0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		893F5D4115E181530030BAB0 /* Hexor-Prefix.pch */ = {isa = PBXFileReference; path = "Hexor-Prefix.pch"; sourceTree = "<group>"; };
-		893F5D4215E181530030BAB0 /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		893F5D4115E181530030BAB0 /* Hexor-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Hexor-Prefix.pch"; sourceTree = "<group>"; };
+		893F5D4215E181530030BAB0 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		893F5D4315E181530030BAB0 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		893F5D4615E181530030BAB0 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		893F5D4915E181530030BAB0 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
-		893F5D4B15E181530030BAB0 /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		893F5D4B15E181530030BAB0 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		893F5D4C15E181530030BAB0 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
